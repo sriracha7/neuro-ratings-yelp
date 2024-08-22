@@ -35,4 +35,4 @@ Follow these instructions to set up and run the Google Colab notebook.
 
    In the notebook, there is a section at the beginning that installs all the necessary dependencies. You don’t need to do anything additional; just run that section.
 
-### Everything should work from there.
+Everything should work from there.
