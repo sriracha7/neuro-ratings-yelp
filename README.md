@@ -29,6 +29,7 @@ Follow these instructions to set up and run the Google Colab notebook.
    The word embedding files (Word2Vec and GloVe) were too large to upload normally to the github repository so here are the external links      to download them:
 
    [GloVe](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt?resource=download)
+   
    [Word2Vec](https://github.com/eyaler/word2vec-slim)
    
 4. **Install Dependencies:**
